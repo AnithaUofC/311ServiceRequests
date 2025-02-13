@@ -9,6 +9,8 @@ Data Analysis and Visualization for 311 Service Requests of Calgary.
    i) Project Proposal PDF
    ii) Project Proposal PPT
 2. ReadMe.md
+3. Final report ipynb:
+   311ServiceRequestFinalReport.ipynb
 
 ## Data Source for the Project: 
   The City Of Calgary Open Data Portal: 311 Service Requests- Services And Amenities.
