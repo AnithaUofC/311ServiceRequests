@@ -1,8 +1,12 @@
-# 311ServiceRequests
-Data Analysis and Visualization for 311 Service Requests of Calgary for the years 2023 and 2024.
+# 311 SERVICE REQUESTS
+311 is a non-emergency government service that helps citizens to report issues and access city information. It can be accessed by phone, online, or through mobile apps and often includes multilingual support and services for vulnerable populations like the senior residents. The 311 system collects all requests, which are then routed to the responsible city department for resolution. It operates 24/7 and allows users to track the progress of their requests, ensuring transparency and accountability. Thus the 311 services make the lives of the residents easier and saves their time by eliminating the need to contact multiple departments for resolving their concerns. The user-friendly interface of 311 also makes the communication with the local government effortless, convenient and accessible for everyone.
 
-## Repo purpose:
-  This is a Python Project for Analysis and Visualization of "311 Service Requests" submitted for The City Of Calgary. 
+
+## DATA ANALYSIS
+Analysis of 311 data over a long period of time helps us in determining the most frequent service requests which can be addressed more efficiently by allocating adequate resources. This can also be used to identify the efficiencies of different departments and the gaps where improvement is required. Seasonal patterns and long term trends can also be identified which can be used to predict the future demands and optimize the public services. By tracking types of requests, response times, and areas with frequent complaints, resources can be allocated more effectively, and operational inefficiencies can be identified and resolved. The residents will get a clear picture regarding the handling of their concerns which promotes transparency. Proactive planning is made possible, allowing for better resource distribution and improved service delivery. Ultimately, systemic issues can be identified, and solutions can be developed,leading to improved city planning and enhanced community satisfaction.
+
+## REPO PURPOSE:
+This is a Python Project for Analysis and Visualization of "311 Service Requests" submitted for The City Of Calgary. It includes data analysis and visualization for 311 Service Requests of Calgary for the years 2023 and 2024.
   
 ## Files Included in the Repo: 
 1. Documents Folder:
@@ -17,11 +21,11 @@ Data Analysis and Visualization for 311 Service Requests of Calgary for the year
    2. CSV_SECTORS.csv  : Community Sectors
    3. Community_District_Boundaries_GeoJson.csv : Calagary district boundary
 
-## Data Source for the Project: 
-  The City Of Calgary Open Data Portal: 311 Service Requests- Services And Amenities.
+## DATA SOURCE: 
+The City Of Calgary Open Data Portal: 311 Service Requests- Services And Amenities.
 
 
-## Project Objective and focus areas:
+## PROJECT OBJECTIVE AND FOCUS AREAS:
 1. Gerographic analysis of 311 requests
 2. Identification of Seasonal Trends
 3. Request resouce study and suggest improvements
@@ -29,7 +33,7 @@ Data Analysis and Visualization for 311 Service Requests of Calgary for the year
 5. Analysis of Trends Over time.
 
 
-## CONCLUSION
+## INSIGHTS GAINED
 
 ### Geographical Insights: 
 The Downtown community has the largest number of requests, potentially making it a key area for focusing efforts in terms of both service delivery and resource allocation. Communities like 05G show fewer requests, possibly indicating a need to investigate why this is the case — whether it's due to lower demand or a gap in service awareness or it is under development. Road-related services remain in high demand across multiple sectors, while there’s also a critical need for Waste and Water Management Services (WRS), particularly in the Southeast region. This highlights regional disparities and may require more localized resource allocation.
