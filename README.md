@@ -6,8 +6,8 @@ Data Analysis and Visualization for 311 Service Requests of Calgary.
   
 ## Files Included in the Repo: 
 1. Documents Folder:
-   i) Project Proposal PDF
-   ii) Project Proposal PPT
+   1. Project Proposal PDF
+   2. Project Proposal PPT
 2. ReadMe.md
 3. Final report ipynb:
    311ServiceRequestFinalReport.ipynb
